@@ -1,6 +1,6 @@
 # Zara shazul
 
-![this is an image.](https://raw.github.com/Abdullaabdulazeez/master/zara/a2d63d55-dec5-4256-84ec-a90239cd7c32.jpeg)
+![this is an image.](https://raw.github.com/Abdullaabdulazeez/zara/master/zara/a2d63d55-dec5-4256-84ec-a90239cd7c32.jpeg)
 
 Hello, everyone! My name is Zara, and I'm an adventurous 5-year-old. I used to live in the 
 beautiful state of Kerala, where palm trees swayed and colorful flowers bloomed. 
